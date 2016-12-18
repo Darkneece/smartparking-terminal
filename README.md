@@ -7,4 +7,4 @@ Python 3,
 Pyserial - A python module for RS232 Serial communication.
 
 Usage:
-Run command "python smartparking-terminal.py"
+Run command "parking-control.py"
